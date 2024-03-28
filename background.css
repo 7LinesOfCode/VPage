@@ -1,0 +1,18 @@
+body {
+    background-image: url('background.jpeg');
+    background-size: cover; /* Cover the entire background */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+    background-position: center bottom; /* Center horizontally and align to the bottom vertically */
+    min-height: 100vh; /* Ensure body covers the entire viewport height */
+}
+
+/* Style for the boxes */
+.box {
+    background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white */
+    padding: 20px;
+    margin-top: 20px; /* Add margin between boxes */
+    margin-bottom: 20px; 
+    margin-left: 10 px;
+    margin-right: 10px;/* Optional: Add margin at the bottom */
+    border-radius: 10px; /* Add rounded corners */
+}

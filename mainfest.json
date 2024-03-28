@@ -3,7 +3,7 @@
     "background_color": "#2196f3",
     "display": "browser",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "/VPage/",
     "icons" : [
         {
             "src" : "./logoBig.png",
